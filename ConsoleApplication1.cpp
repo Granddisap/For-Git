@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "ty\n";
+    std::cout << "TY\n";
 }
 //Hello, All for git
 
